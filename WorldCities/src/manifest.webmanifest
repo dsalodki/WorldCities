@@ -1,0 +1,10 @@
+{
+    "name": "WorldCities",
+    "short_name": "WorldCities",
+    "theme_color": "#fff",
+    "background_color": "#fff",
+    "display": "browser",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+}
